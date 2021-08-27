@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/diamond_hoe_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/diamond_hoe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 20
             },
             "model": "gm4:item/sky_dimension/diamond_hoe_20"

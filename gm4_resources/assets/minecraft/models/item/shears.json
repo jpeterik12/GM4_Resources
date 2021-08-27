@@ -20,6 +20,12 @@
             "predicate": {
                 "custom_model_data": 3
             },
+            "model": "gm4:item/sky_dimension/shears_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
             "model": "item/shears"
         },
         {

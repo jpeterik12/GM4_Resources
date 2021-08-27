@@ -137,73 +137,73 @@
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "gm4:item/relocator"
+            "model": "gm4:block/relocator_empty"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "gm4:item/relocator_custom_crafter"
+            "model": "gm4:block/relocator_custom_crafter"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "gm4:item/relocator_master_crafter"
+            "model": "gm4:block/relocator_master_crafter"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "gm4:item/relocator_compressor"
+            "model": "gm4:block/relocator_block_compressor"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "gm4:item/relocator_ender_hopper"
+            "model": "gm4:block/relocator_ender_hopper"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "gm4:item/relocator_liquid_tank"
+            "model": "gm4:block/relocator_liquid_tank"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "gm4:item/relocator_smeltery"
+            "model": "gm4:block/relocator_smeltery"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "gm4:item/relocator_enchantment_extractor"
+            "model": "gm4:block/relocator_enchantment_extractor"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "gm4:item/relocator_disassembler"
+            "model": "gm4:block/relocator_disassembler"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "gm4:item/relocator_tinkering_compressor"
+            "model": "gm4:block/relocator_tinkering_compressor"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "gm4:item/relocator_teleportation_jammer"
+            "model": "gm4:block/relocator_teleportation_jammer"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "gm4:item/relocator_teleportation_anchor"
+            "model": "gm4:block/relocator_teleportation_anchor"
         },
         {
             "predicate": {
@@ -418,6 +418,12 @@
         {
             "predicate": {
                 "custom_model_data": 119
+            },
+            "model": "gm4:item/barimium_band"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 120
             },
             "model": "item/player_head"
         }

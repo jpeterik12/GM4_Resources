@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/golden_sword_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/golden_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 104
             },
             "model": "gm4:item/metallurgy/shamir/thorium/golden_sword"

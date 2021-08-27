@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/stone_sword_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/stone_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 105
             },
             "model": "gm4:item/metallurgy/shamir/thorium/stone_sword"

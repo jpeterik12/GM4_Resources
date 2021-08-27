@@ -6,6 +6,18 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/iron_sword_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "item/iron_sword"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 10
             },
             "model": "gm4:item/end_fishing/swords/iron_sword_10"

@@ -7,6 +7,24 @@
 
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gm4:item/sky_dimension/iron_axe_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gm4:item/sky_dimension/iron_axe_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "item/iron_axe"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 104
             },
             "model": "gm4:item/metallurgy/shamir/thorium/iron_axe"
