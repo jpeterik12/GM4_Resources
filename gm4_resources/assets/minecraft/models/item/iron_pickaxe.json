@@ -74,7 +74,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
@@ -86,13 +86,13 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
@@ -110,7 +110,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
@@ -188,7 +188,7 @@
             "predicate": {
                 "custom_model_data": 3420107
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
@@ -200,13 +200,13 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/bismuth/iron_pickaxe"
         },
         {
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {
@@ -224,7 +224,7 @@
             "predicate": {
                 "custom_model_data": 3420114
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/iron_pickaxe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/iron_pickaxe"
         },
         {
             "predicate": {

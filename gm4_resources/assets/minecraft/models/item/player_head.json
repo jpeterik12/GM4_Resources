@@ -87,6 +87,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gm4:item/bismutite_lump"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 18
             },
             "model": "gm4:item/malachite_lump"
@@ -323,7 +329,7 @@
             "predicate": {
                 "custom_model_data": 100
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -365,7 +371,7 @@
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
@@ -383,13 +389,13 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -407,7 +413,7 @@
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -419,13 +425,13 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -755,7 +761,7 @@
             "predicate": {
                 "custom_model_data": 3420100
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -797,7 +803,7 @@
             "predicate": {
                 "custom_model_data": 3420107
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
@@ -815,13 +821,13 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -839,7 +845,7 @@
             "predicate": {
                 "custom_model_data": 3420114
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {
@@ -851,13 +857,13 @@
             "predicate": {
                 "custom_model_data": 3420116
             },
-            "model": "gm4:item/copper_band"
+            "model": "gm4:item/bismuth_band"
         },
         {
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/thorium_brass_band"
+            "model": "gm4:item/curies_bismium_band"
         },
         {
             "predicate": {

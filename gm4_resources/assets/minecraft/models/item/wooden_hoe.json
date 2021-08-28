@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/wooden_hoe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/wooden_hoe"
         },
         {
             "predicate": {
@@ -56,7 +56,7 @@
             "predicate": {
                 "custom_model_data": 3420111
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/wooden_hoe"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/wooden_hoe"
         },
         {
             "predicate": {

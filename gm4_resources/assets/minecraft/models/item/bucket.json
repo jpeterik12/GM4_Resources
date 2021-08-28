@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bucket"
         },
         {
             "predicate": {
@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 3420010
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/bucket"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/bucket"
         },
         {
             "predicate": {

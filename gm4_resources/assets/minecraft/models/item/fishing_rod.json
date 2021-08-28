@@ -10,7 +10,7 @@
             },
             "model": "item/fishing_rod_cast"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 2
             },
@@ -19,24 +19,24 @@
         {
             "predicate": {
                 "cast": 1,
-                "custom_model_data": 2				
+                "custom_model_data": 2
             },
             "model": "item/fishing_rod_cast"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod"
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod"
         },
         {
             "predicate": {
                 "cast": 1,
-                "custom_model_data": 110				
+                "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/fishing_rod_cast"
+            "model": "gm4:item/metallurgy/shamir/bismuth/fishing_rod_cast"
         },
-		{
+        {
             "predicate": {
                 "custom_model_data": 111
             },
@@ -45,7 +45,7 @@
         {
             "predicate": {
                 "cast": 1,
-                "custom_model_data": 111				
+                "custom_model_data": 111
             },
             "model": "item/fishing_rod_cast"
         }

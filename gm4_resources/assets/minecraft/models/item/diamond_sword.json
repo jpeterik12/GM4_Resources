@@ -182,7 +182,7 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
@@ -194,13 +194,13 @@
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
         },
         {
             "predicate": {
@@ -386,7 +386,7 @@
             "predicate": {
                 "custom_model_data": 3420110
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
@@ -398,13 +398,13 @@
             "predicate": {
                 "custom_model_data": 3420116
             },
-            "model": "gm4:item/metallurgy/shamir/copper/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/bismuth/diamond_sword"
         },
         {
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/diamond_sword"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/diamond_sword"
         },
         {
             "predicate": {

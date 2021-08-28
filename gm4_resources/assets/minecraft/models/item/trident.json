@@ -32,7 +32,7 @@
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
         },
         {
             "predicate": {
@@ -68,7 +68,7 @@
             "predicate": {
                 "custom_model_data": 3420117
             },
-            "model": "gm4:item/metallurgy/shamir/thorium_brass/trident"
+            "model": "gm4:item/metallurgy/shamir/curies_bismium/trident"
         },
         {
             "predicate": {
